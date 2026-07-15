@@ -1,10 +1,10 @@
 # Quiz App
 
-A lightweight Ruby console application for running multiple-choice quizzes.
+A lightweight Ruby console application for running multiple-choice quizzes
 
 ## Overview
 
-Quiz App is a console-based application that loads quiz questions, displays them to the user, evaluates answers, and generates a final score report.
+Quiz App is a console-based application that loads quiz questions, displays them to the user, evaluates answers, and generates a final score report
 
 ## Features
 
